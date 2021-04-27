@@ -16,7 +16,7 @@ FUNCTION print_primes(limit)
 	END IF
 	FOR i = 1 to limit
 		IF prime(i) == true THEN
-			primes push (i)
+			primes.push(i)
 		END IF
 	END FOR
 	OPEN file "./output.txt" in write mode
