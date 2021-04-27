@@ -1,5 +1,4 @@
 FUNCTION factorial(n)
-	DECLARE result <- 1
 	IF n == 1 THEN
 		return n
 	ELSE
