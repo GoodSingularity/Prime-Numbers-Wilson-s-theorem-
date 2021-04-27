@@ -7,3 +7,6 @@ I've found out Willson's Theorem
 Wilson's theorem states that
 a positive integer n > 1 is a prime if and only if (n-1)! == -1 mod(n).
 https://brilliant.org/wiki/wilsons-theorem/
+
+Using this pseudocode standard
+https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
